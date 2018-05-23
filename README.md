@@ -3,4 +3,4 @@ So in my search for a personal project I came across a Worst Internet Websites l
 and decided to remake it according to the latest one page design scheme of websites. So here it is. My take on the website.
 Hope You Like It.
 
-# [Website Here](http://www.cs.uml.edu/~cbhardwa/Suzanne-Collins-CB/") 
+# [Website Here]("https://www.cs.uml.edu/~cbhardwa/Suzanne-Collins-CB/") 
